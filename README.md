@@ -42,7 +42,7 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes
 Contacto: **felipe.e@hotmail.es**
 
 <p>
-  <a href="https://www.linkedin.com/in/ronald-garcia-vazquez"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@FluideZ"/></a>
+  <a href="https://www.linkedin.com/in/fbsepulveda/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@FluideZ"/></a>
 </p>  
 
 
